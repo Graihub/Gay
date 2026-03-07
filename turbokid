@@ -2412,7 +2412,7 @@ local Others = Library:MakeTab({
 })
 
 local Maestry = Library:MakeTab({
-    Title = "Farm Maestry",
+    Title = "Farm Mastery",
     Icon = "rbxassetid://10709782497"
 })
 
