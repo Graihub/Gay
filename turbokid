@@ -2466,10 +2466,10 @@ local Setting = Library:MakeTab({
     Icon = "rbxassetid://7734053495"
 })
 Status:AddDiscordInvite({
-    Name = "Server Discord Turbo Lite Hub",
-    Description = "join for support and update <3",
-    Logo = "rbxassetid://18919385586",
-    Invite = "https://turbolite.xyz/discord"
+    Name = "Server Discord Bamia Hub",
+    Description = "join for Update <3",
+    Logo = "rbxassetid://85288799798332",
+    Invite = "https://discord.gg/qVa6jedW9p"
 })
 
 Shop:AddSection("Fighting Shop")
@@ -8926,7 +8926,7 @@ end
 
 Esp:AddSection({"Fontes"});
 
-local currentFont = Enum.Font.Arial -- Fonte padrão inicial
+local currentFont = Enum.Font.Oswald
 
 local function ApplyGlobalFont(fontEnum)
     currentFont = fontEnum
