@@ -2337,7 +2337,7 @@ uiCorner.Parent = imageButton
 local uiStroke = Instance.new("UIStroke", imageButton)
 uiStroke.Thickness = 2
 uiStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
-uiStroke.Color = Color3.fromRGB(0, 255, 0) -- Magenta/Rosa forte
+uiStroke.Color = Color3.fromRGB(204, 153, 102) -- Màu khô gà (nâu vàng)
 
 -- Variáveis para arrastar
 local dragging = false
