@@ -2310,7 +2310,7 @@ QuestNeta = function()
 			[6] = PosQ,
 		};
 	end;
-	local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Graihub/Uigay/refs/heads/main/Redzui"))():MakeWindow({
+	local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Graihub/Uigay/refs/heads/main/Novaui.lua.txt"))():MakeWindow({
     Title = "BaMia Hub",
     SubTitle = "By BelBel",
     SaveFolder = "turbolite.json"
